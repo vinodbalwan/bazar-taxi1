@@ -1,0 +1,194 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.onewayreips{
+    width: 40vw;
+    height: 80vh;
+    
+    border: 2px solid #f7b71d;
+}
+.textcenter{
+    width: 40vw;
+    height: 10vh;
+    
+    position: absolute;
+    /* top: 6vh; */
+    padding-left: 15vw;
+    padding-top: 2vh;
+  }
+  h6{
+    color: black;
+    font-size: large;
+  }
+  .inputfirst{
+    width: 40vw;
+    height: 12vh;
+    
+    position: absolute;
+    top:10vh;
+    padding-left: 2vw;
+    padding-top: 2vh;
+
+  }
+  .pickupaddress{
+    font-family: "Roboto",sans-serif;
+  }
+  .addressenter{
+    width: 36vw;
+    height: 7vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+  }
+  ::placeholder {
+    color: lightgray;
+    font-size: large;
+}
+input:focus{
+    outline: none;
+    border: 2px solid rgb(178, 173, 230);
+    
+  }
+  .inputsecond{
+    width: 40vw;
+    height: 12vh;
+    
+    position: absolute;
+    top:23vh;
+    padding-left: 2vw;
+    padding-top: 2vh;
+  }
+  .stopaddress{
+    font-family: "Roboto",sans-serif;
+  }
+  .stoplocation{
+    width: 36vw;
+    height: 7vh;
+    padding-left: 1vw;
+    padding-right: 1vw;
+  }
+  ::placeholder {
+    color: lightgray;
+    font-size: large;
+}
+input:focus{
+    outline: none;
+    border: 2px solid rgb(178, 173, 230);
+    
+  }
+  .inputthird{
+    width: 40vw;
+    height: 8vh;
+    
+    position: absolute;
+    top:36vh;
+    padding-left: 2vw;
+
+  }
+  .thirdnewaddress{
+    width: 17vw;
+    height: 7vh;
+    font-weight: bold;
+    padding-left: 1vw;
+    padding-right: 1vw;
+  }
+  .inputforth{
+    width: 40vw;
+    height: 12vh;
+ 
+    position: absolute;
+    top:45vh;
+    padding-top: 2vh;
+    padding-left: 2vw;
+  }
+  .contactnumber{
+    font-family: "Roboto",sans-serif;
+  }
+  .phonenumberforth{
+    width: 36vw;
+    height: 7vh;
+    font-weight: bold;
+    padding-left: 1vw;
+    padding-right: 1vw;
+  }
+  .searchcab{
+    width: 40vw;
+    height: 10vh;
+    
+    position: absolute;
+    top:58vh ;
+    
+    padding-left: 2vw;
+    padding-top: 1vh;
+  }
+  .searchcabs{
+    font-family: "Roboto",sans-serif;
+    font-weight: bold;
+    width: 36vw;
+    height: 7vh;
+    background-color: #f7b71d;
+    color: #f2f2f2;
+    border: none;
+  }
+  .lastimage{
+    width: 40vw;
+    height: 10vh;
+    position: absolute;
+    top: 70vh;
+    
+    padding-left: 8vw;
+    padding-top: 1vh;
+  }
+  .lastimagefb{
+    width: 4vw;
+    height: 8vh;
+    
+   border: 2px solid #f7b71d;
+    padding-top:2.3vh;
+    padding-left: 0.8vw;
+  }
+  .lastimageinsta{
+    width: 4vw;
+    height: 8vh;
+    border: 2px solid #f7b71d;
+    position: absolute;
+    left: 13vw;
+    bottom: 1vh;
+    padding-top:2.3vh;
+    padding-left: 0.8vw;
+  }
+ 
+  .lastimagemail{
+    width: 4vw;
+    height: 8vh;
+    border: 2px solid #f7b71d;
+    position: absolute;
+    left: 18vw;
+    bottom: 1vh;
+    padding-top:2.3vh;
+    padding-left: 0.8vw;
+  }
+ 
+  .lastimagetiwtter{
+    width: 4vw;
+    height: 8vh;
+    border: 2px solid #f7b71d;
+    position: absolute;
+    left: 23vw;
+    bottom: 1vh;
+    padding-top:2.3vh;
+    padding-left: 0.8vw;
+  }
+ 
+  .lastimagewhatsapp{
+    width: 4vw;
+    height: 8vh;
+    border: 2px solid #f7b71d;
+    position: absolute;
+    left: 28vw;
+    bottom: 1vh;
+    padding-top:2.3vh;
+    padding-left: 0.8vw;
+  }
+ 
